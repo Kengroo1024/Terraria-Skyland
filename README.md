@@ -1,6 +1,10 @@
 # Terraria-Skyland 地图说明
 
-Terraria Skyland Maps
+Terraria Skyland Maps using [TEdit](https://github.com/TEdit/Terraria-Map-Editor) to create.
+
+## 使用说明
+
+将所需的地图文件放入$user/document/My games/Terraria/Worlds中即可
 
 ## 主要目标
 
