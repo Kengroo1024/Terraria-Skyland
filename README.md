@@ -4,7 +4,7 @@ Terraria Skyland Maps using [TEdit](https://github.com/TEdit/Terraria-Map-Editor
 
 ## 使用说明
 
-将所需的地图文件放入$user/document/My games/Terraria/Worlds中即可
+将所需的地图文件放入$user$/document/My games/Terraria/Worlds中即可
 
 ## 主要目标
 
@@ -19,7 +19,7 @@ Terraria Skyland Maps using [TEdit](https://github.com/TEdit/Terraria-Map-Editor
 
 1. 出生点
 1. 微光湖
-1. 猩红之地，有2颗猩红之心
+1. 猩红之地，包含2颗猩红之心
 1. 雪原
 1. 蜘蛛洞
 1. 地牢生成点
