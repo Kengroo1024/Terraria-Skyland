@@ -20,10 +20,10 @@ Terraria Skyland Maps using [TEdit](https://github.com/TEdit/Terraria-Map-Editor
 1. 出生点
 1. 微光湖
 1. 猩红之地，包含2颗猩红之心
-1. 雪原
+1. 雪原，包含一个宝箱，用以取消陨石
 1. 蜘蛛洞
 1. 地牢生成点
-1. 狱石矿点
+1. 狱石矿点，包含一个地狱熔炉
 1. 花岗岩洞
 1. 石巨人召唤点（丛林神庙）
 
